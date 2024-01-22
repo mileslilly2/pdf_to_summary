@@ -1,2 +1,16 @@
 clarifai==9.8.1
 streamlit==1.24.0
+clarifai
+PyPDF2
+pdfplumber
+fitz
+frontend
+transformers
+torch
+Pillow
+requests
+pdf2image
+langchain-openai
+tiktoken
+chromadb
+langchain
